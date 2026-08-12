@@ -1,0 +1,1 @@
+scrcpy --turn-screen-off --disable-screensaver --show-touches --stay-awake --video-codec=h264 --video-bit-rate=16M --audio-bit-rate=256K --max-fps=144
